@@ -129,9 +129,3 @@ Visualisasi PCA (3D)
    - Gunakan t-SNE untuk visualisasi dan eksplorasi
    - Gunakan PCA untuk interpretasi dan preprocessing
    - Kombinasikan kedua metode untuk analisis yang komprehensif
-
-## 🚀 Cara Menjalankan
-
-1. Clone repository:
-   ```bash
-   git clone https://github.com/[username]/dimensionality-reduction-tugas.git
